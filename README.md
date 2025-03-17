@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @LIN-Runjing
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Runjing
+- 🐱 I have a cat
+- 🌱 I am currently in France
+- 🎹 20 years of playing the piano
+- 💻 1 year of study in IT
+- 📫 How to reach me lin.runjing@outlook.com
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A pianist who can't make desserts is not a good technician.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
