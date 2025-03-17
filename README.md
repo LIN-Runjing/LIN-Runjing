@@ -6,8 +6,9 @@
 - 📫 How to reach me lin.runjing@outlook.com
 
 
-<h3 align="center">A pianist who can't make desserts is not a good technician.</h3>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={A pianist who can't make desserts is not a good technician.}&fontSize=90&fontAlign=50&fontAlignY=30&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
