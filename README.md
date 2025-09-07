@@ -5,11 +5,6 @@
 - 💻 1 year of study in IT
 - 📫 How to reach me lin.runjing@outlook.com
 
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=A%20pianist%20who%20can't%20make%20desserts%20is%20not%20a%20good%20technician.&fontSize=30&animation=fadeIn&fontAlignY=38"/>
-</p>
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=LIN-Runjing&theme=gruvbox-duo&exclude_days=Sun)](https://git.io/streak-stats)
 
 
